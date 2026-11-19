@@ -2,10 +2,10 @@
   "name": "tamra-ai-proxy",
   "version": "2.0.0",
   "description": "Minimal backend that proxies AI requests from the Tamra app to Google Gemini (free tier), so the app can run standalone in any browser without the Claude app.",
-  "main": "server.js",
+  "main": "server.js2",
   "type": "commonjs",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js2"
   },
   "dependencies": {
     "cors": "^2.8.5",
